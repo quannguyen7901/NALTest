@@ -1,0 +1,8 @@
+D:\testa\testa\bin\Debug\testa.exe.config
+D:\testa\testa\bin\Debug\testa.exe
+D:\testa\testa\bin\Debug\testa.pdb
+D:\testa\testa\obj\Debug\testa.csproj.AssemblyReference.cache
+D:\testa\testa\obj\Debug\testa.csproj.SuggestedBindingRedirects.cache
+D:\testa\testa\obj\Debug\testa.csproj.CoreCompileInputs.cache
+D:\testa\testa\obj\Debug\testa.exe
+D:\testa\testa\obj\Debug\testa.pdb
